@@ -1,0 +1,210 @@
+	
+
+.header {
+  height: 60px;
+  background-color:#1b1a30 ;
+  border: 0px;
+  
+}
+  .header .navbar-toggle {
+    border: none;
+    background-color: none; }
+  .header .navbar-toggle:hover {
+    background-color: #60AFFE !important; }
+  .header .navbar-toggle:focus {
+    background-color: none !important; }
+  .header .navbar-brand img {
+    height: 55px;
+    width: 80px;
+    margin-top: -12px; }
+  .header .navbar-collapse {
+    border-color: #1b1a30; }
+  .header .navbar-nav li a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white !important;
+    font-size: 17px;
+    margin-left: 10px;
+    background-color: #1b1a30; }
+  .header .navbar-nav li a:hover {
+    background-color: #60AFFE !important; }
+  
+  
+  
+ 
+
+ 
+#mainSlider{
+    background-position: cover;
+    
+}
+.timer{
+    z-index: 7;
+}
+.carousel-caption{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 350px;
+    font-size: 120px;
+    word-spacing: 40px;
+}
+  h1{
+     margin-top: 40px;
+     font-weight: bold;
+     font-size: 32px;
+     font-family: sans-serif;
+  }
+  p{
+      font-size: 17px;
+      font-family: sans-serif;
+  }
+  #customer{
+      padding: 20px;
+  }
+  
+  .parallax {
+    /* The image used */
+    background-image: url("../images/para.jpg");
+    
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-fluid{
+     
+  height: 100%;   
+     
+}
+
+#login{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.well{
+  background-color: #B0E2FF;
+  margin-top: 60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 20px 0px 30px 0px;
+}
+
+.well-lg{
+   background-color: #B0E2FF; 
+   margin-left: 200px;
+  margin-right: 200px;
+  height: 260px;
+  margin-bottom: 70px;
+  margin-top: 40px;
+  padding: 20px 0px 60px 0px;
+}
+
+#reg{
+    
+   padding: 10px;
+   margin-left: 80px;
+  
+}
+
+
+#registration{
+    text-align: center;
+    font-family: sans-serif;
+}
+.sign{
+    margin-top: 100px;
+    height: 100px;
+    padding-bottom: 50px;
+}
+#signup{
+    padding:10px;
+}
+
+#pass{
+    width:475px;
+    margin-left: 3px;
+}
+#listhead{
+    font-weight:bold;
+    padding: 10px;
+    margin-left: 80px;
+}
+.table{
+    margin-bottom: 120px;
+    margin-left: 45px;
+}
+#capsule{
+    margin-top: 105px;
+    
+    
+}
+
+#cart{
+    margin-left: 220px;
+    margin-right: 60px;
+    padding-left: 80px;
+    margin-top: 10px;
+}
+
+#carthead{
+    margin-left: 329px;
+}
+
+#continue{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px; 
+    padding: 0px;   
+}
+#checktb{
+    margin-left: 100px;
+}
+
+#orderbt{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+table,th,td{
+    padding: 15px;
+    border: 3px solid #ddd;
+}
+.tpro{
+    background-color: white;
+}
+
+.big-footer-section {
+  background-color: #1b1a30;
+  color: white;
+  padding-top: 10px;
+}
+  .big-footer-section .popular-link {
+    list-style-type: none; 
+    color: white;}
+    .big-footer-section .popular-link li a {
+      color: white; }
+
+.footer-section {
+  background-color: #333;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+  .footer-section .social-link {
+    list-style-type: none; }
+    .footer-section .social-link a {
+      color: white; }
+    .footer-section .social-link .fb:hover {
+      color: #43609C; }
+    .footer-section .social-link .yt:hover {
+      color: #FF0000; }
+    .footer-section .social-link .gp:hover {
+      color: #DD4B39; }
+
+/*# sourceMappingURL=style.css.map */ 
